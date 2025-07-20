@@ -38,3 +38,8 @@ m=st.text_input("PAYMENT METHOD:")
 obj.info(n,a,m)
 z=obj.generate_receipt()
 st.write(z)
+
+
+
+
+st.caption("**This project is made using streamlit , Hence it is directly displayed here**")
