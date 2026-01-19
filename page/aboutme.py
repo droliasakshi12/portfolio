@@ -30,7 +30,7 @@ left,right=st.columns(2)
 with left:
     st.markdown("<h4>Programming Language</h4>",unsafe_allow_html=True)
     st.write("<h5>-Python</br>-Sql</br></h5></br>",unsafe_allow_html=True)
-    st.write("<h4>Python Libraries</h4><h5>-Pandas</br>-Numpy</br>-Matplotlib</br>-Seaborn<h5>",unsafe_allow_html=True)
+    st.write("<h4>Python Libraries</h4><h5>-Pandas</br>-Numpy</br>-Matplotlib</br>-Seaborn</br>Langchain</br>LangGraph</br>Flask</br>FastAPI<h5>",unsafe_allow_html=True)
     st.write("<h4>•Indian Classical Music </br>•Writing</br>•Team Work</h4>",unsafe_allow_html=True)
 
 
