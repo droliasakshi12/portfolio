@@ -48,4 +48,30 @@ streamlit_theme.py
 
 <h2>👧aboutme.py</h2>
 <li>The about me file has the detail</li>
+<li>Added my photo and details of my education and skills</li>
 
+<h2>📝Paymant Receipt </h2>
+<li> This is a streamlit project.</li>
+<li>In this peoject we have created a payment receipt where the user will enter the name , amount and pay method
+and that will be displayed below.</li>
+<li>This is a beginner friendly project to understand the concept.</li>
+
+<h2>Python Object Oriented Programming</h2>
+<li>This page includes the github link for the projects created in python oop</li>
+
+<h2>Python Project</h2>
+<li>This includes the basic project created in python</li>
+<li>Here also the github link is project which will be redirected to the ptoject page.</li>
+
+<b><p>⭐ If you found this repository useful, consider giving it a star!</p>
+    <p>Happy Coding 🐍✨</p></b>
+
+👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
+📩 Email   : droliasakshi601@gmail.com <br>
+🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
+<h4>Credits</h4>
+<b></b>Future Vision Computer Institute</b><BR>
+🌐 Website : https://futurevisioncomputers.com/
+<br>
+<b><h5>Author</h5></b>
+<b>Sakshi Drolia</b>
