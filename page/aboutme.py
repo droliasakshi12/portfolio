@@ -3,7 +3,7 @@ import streamlit as st
 left_col , right_col=st.columns(2,gap="large",vertical_alignment="top",)
 
 with left_col:
-    st.image(image="image.jpg",width=240)
+    st.image(image="image.png",width=240)
     st.write("</br></br><br></br>",unsafe_allow_html=True)
 
 
