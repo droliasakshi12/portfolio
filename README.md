@@ -50,12 +50,16 @@ streamlit_theme.py
 <li>The about me file has the detail</li>
 <li>Added my photo and details of my education and skills</li>
 
-<h2>📝Paymant Receipt </h2>
+<h2> 💸Paymant Receipt </h2>
 <li> This is a streamlit project.</li>
 <li>In this peoject we have created a payment receipt where the user will enter the name , amount and pay method
 and that will be displayed below.</li>
 <li>This is a beginner friendly project to understand the concept.</li>
-<img src="payment_receipt.png" alt="Alt text" width="500" height="300">
+<br>
+
+<b>
+<img src="payment_receipt.png" alt="Alt text" width="700" height="1000">
+</b>
 
 <h2>Python Object Oriented Programming</h2>
 <li>This page includes the github link for the projects created in python oop</li>
